@@ -1,5 +1,8 @@
 # Financial Literacy Using Python
 
+<img width="610" alt="image" src="https://user-images.githubusercontent.com/96287600/214325453-3944dfd4-bb39-47b4-ae1d-5fd6c33e2292.png">
+
+
 ## Built With 💻
 
 - [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)](https://jupyter.org/try)
