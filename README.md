@@ -15,20 +15,47 @@ total = saving_notes + savings_coins
 print ("The Total Amount Of Savings = $",total)
 
 ```
+### Calculating Total Amount Of Savings (Keying in amount)
 ```
-# Calculating Total Amount Of Savings (Keying in amount)
 saving_notes = float(input("Enter the savings amount in notes: $"))
 savings_coins = float(input("Enter the savings amount in coins: $"))
 total = saving_notes + savings_coins 
 print ("\nThe Total Amount Of Savings = $",total)
 
 ```
+### Calculating Total Amount Of Savings in months (Keying in amount)
 ```
-# Calculating Total Amount Of Savings in months (Keying in amount)
 savings_per_mth = float(input("Enter the savings per month: $"))
 total_mth = float(input("Enter the total number of months: "))
 total = savings_per_mth * total_mth 
 print ("The Total Amount Of Savings in",total_mth, "months is $",total)
+
+```
+### Using Function in Python 
+```
+def savings_expenses(): # How much savings that can last for the number of months of expenses
+    total_savings = float(input("Enter your Total Amount Of Savings: $"))
+    monthly_exp = float(input("Enter your Total Amount of Expenses: $"))
+    num_of_mths = total_savings/monthly_exp
+    print ("The Total Amount Of Savings can last for", num_of_mths, "months of expenses." ) 
+savings_expenses()
+
+```
+### Managing the range for number of months of expenses
+```
+num_of_mths = float(input("Enter the number of months of expenses in terms of savings:"))
+
+if 6<num_of_mths<13:
+    print ("Well Done!!! Great Job !!! ")
+    
+elif 3<num_of_mths<5:
+    print("You are doing great!!! Keep it up !!")
+
+elif 0<num_of_mths<2:
+    print("Awesome !!! Keep building your savings!!!")
+    
+else:
+    print("The amount entered is not within range. Thank you.")
 
 ```
 ## [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
