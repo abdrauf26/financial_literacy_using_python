@@ -41,7 +41,7 @@ def savings_expenses(): # How much savings that can last for the number of month
 savings_expenses()
 
 ```
-### Managing the range for number of months of expenses
+### Managing the range for number of months of expenses in terms of savings
 ```
 num_of_mths = float(input("Enter the number of months of expenses in terms of savings:"))
 
