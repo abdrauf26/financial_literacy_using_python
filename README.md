@@ -7,9 +7,29 @@
 
 ## 1. Financial Literacy Using Python 
 ```
+# Calculating Total Amount Of Savings
+saving_notes = 500
+savings_coins = 70
+total = saving_notes + savings_coins 
+print ("The Total Amount Of Savings = $",total)
 
 ```
+```
+# Calculating Total Amount Of Savings (Keying in amount)
+saving_notes = float(input("Enter the savings amount in notes: $"))
+savings_coins = float(input("Enter the savings amount in coins: $"))
+total = saving_notes + savings_coins 
+print ("\nThe Total Amount Of Savings = $",total)
 
+```
+```
+# Calculating Total Amount Of Savings in months (Keying in amount)
+savings_per_mth = float(input("Enter the savings per month: $"))
+total_mth = float(input("Enter the total number of months: "))
+total = savings_per_mth * total_mth 
+print ("The Total Amount Of Savings in",total_mth, "months is $",total)
+
+```
 ## [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 - [Jupyter Notebook Viewer - Financial Literacy Using Python](https://github.com/abdrauf26/financial_literacy_using_python/blob/main/Financial%20Literacy%20Using%20Python.ipynb)
 
