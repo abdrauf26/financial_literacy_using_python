@@ -1,7 +1,5 @@
 # Financial Literacy Using Python
 
-<img width="610" alt="image" src="https://user-images.githubusercontent.com/96287600/214325453-3944dfd4-bb39-47b4-ae1d-5fd6c33e2292.png">
-
 <img width="951" alt="image" src="https://user-images.githubusercontent.com/96287600/214325975-2a1d2043-54b8-48b4-a7cb-c392bfd6da3c.png">
 
 
