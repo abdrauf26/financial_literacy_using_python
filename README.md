@@ -5,9 +5,10 @@
 - [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)](https://jupyter.org/try)
 - [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)](https://www.python.org/)
 
-## 1. Financial Literacy Using Python 
+## Financial Literacy Using Python 
+
+### Calculating Total Amount Of Savings
 ```
-# Calculating Total Amount Of Savings
 saving_notes = 500
 savings_coins = 70
 total = saving_notes + savings_coins 
