@@ -1,5 +1,3 @@
-# financial_literacy_using_python
-
 # Financial Literacy Using Python
 
 ![image](https://user-images.githubusercontent.com/96287600/178280201-c66eaf20-b2dc-4088-a59a-8e7958f197c6.png)
