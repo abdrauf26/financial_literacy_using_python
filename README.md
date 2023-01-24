@@ -11,7 +11,7 @@
 ```
 
 ## [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-- [Jupyter Notebook Viewer - Data Visualization Using Python](https://nbviewer.org/github/abdrauf26/data_visualization/blob/main/Data%20Visualization%20Using%20Python.ipynb)
+- [Jupyter Notebook Viewer - Financial Literacy Using Python](https://nbviewer.org/github/abdrauf26/data_visualization/blob/main/Data%20Visualization%20Using%20Python.ipynb)
 
 ## Social 📧 
 
