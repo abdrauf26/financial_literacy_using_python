@@ -1,6 +1,6 @@
 # Financial Literacy Using Python
 
-<img width="951" alt="image" src="https://user-images.githubusercontent.com/96287600/214325975-2a1d2043-54b8-48b4-a7cb-c392bfd6da3c.png">
+[<img width="951" alt="image" src="https://user-images.githubusercontent.com/96287600/214325975-2a1d2043-54b8-48b4-a7cb-c392bfd6da3c.png">](https://github.com/abdrauf26/financial_literacy_using_python/blob/main/Financial%20Literacy%20Using%20Python.ipynb) 
 
 
 ## Built With 💻
